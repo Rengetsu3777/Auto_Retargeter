@@ -1,0 +1,124 @@
+A
+[<Object '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Warrior.SK_CharM_Warrior' (0x000006F4407DD200) Class 'SkeletalMesh'>]
+B
+<Object '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Warrior.SK_CharM_Warrior' (0x000006F4407DD200) Class 'SkeletalMesh'>
+C
+<Object '/Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_Mannequin_Skeleton.SK_Mannequin_Skeleton' (0x000006F384781200) Class 'Skeleton'>
+chain name: Root, head bone id: 1, tail bone id: 1
+D
+chain name: Spine, head bone id: 2, tail bone id: 4
+D
+chain name: Head, head bone id: 30, tail bone id: 30
+D
+chain name: HandGunIK, head bone id: -1, tail bone id: -1
+D
+chain name: FootRootIK, head bone id: -1, tail bone id: -1
+D
+chain name: HandRootIK, head bone id: -1, tail bone id: -1
+D
+left_sign: _l, char_l_position: 1
+chain name: LeftArm, head bone id: 6, tail bone id: 15
+chain name: RightArm, head bone id: 18, tail bone id: 27
+chain name: LeftPinky, head bone id: -1, tail bone id: -1
+chain name: RightPinky, head bone id: -1, tail bone id: -1
+chain name: LeftRing, head bone id: 11, tail bone id: 12
+chain name: RightRing, head bone id: 23, tail bone id: 24
+chain name: LeftThumb, head bone id: 14, tail bone id: 14
+chain name: RightThumb, head bone id: 26, tail bone id: 26
+chain name: LeftMiddle, head bone id: -1, tail bone id: -1
+chain name: RightMiddle, head bone id: -1, tail bone id: -1
+chain name: LeftIndex, head bone id: 9, tail bone id: 10
+chain name: RightIndex, head bone id: 21, tail bone id: 22
+chain name: LeftLeg, head bone id: 31, tail bone id: 33
+chain name: RightLeg, head bone id: 37, tail bone id: 39
+chain name: LeftLowerArmTwist01, head bone id: 15, tail bone id: 15
+chain name: RightLowerArmTwist01, head bone id: 27, tail bone id: 27
+chain name: LeftLowerArmTwist02, head bone id: -1, tail bone id: -1
+chain name: RightLowerArmTwist02, head bone id: -1, tail bone id: -1
+chain name: LeftUpperArmTwist01, head bone id: -1, tail bone id: -1
+chain name: RightUpperArmTwist01, head bone id: -1, tail bone id: -1
+chain name: LeftUpperArmTwist02, head bone id: -1, tail bone id: -1
+chain name: RightUpperArmTwist02, head bone id: -1, tail bone id: -1
+chain name: LeftThighTwist01, head bone id: -1, tail bone id: -1
+chain name: RightThighTwist01, head bone id: -1, tail bone id: -1
+chain name: LeftThighTwist02, head bone id: -1, tail bone id: -1
+chain name: RightThighTwist02, head bone id: -1, tail bone id: -1
+chain name: LeftCalfTwist01, head bone id: -1, tail bone id: -1
+chain name: RightCalfTwist01, head bone id: -1, tail bone id: -1
+chain name: LeftCalfTwist02, head bone id: -1, tail bone id: -1
+chain name: RightCalfTwist02, head bone id: -1, tail bone id: -1
+chain name: LeftIndexMetacarpal, head bone id: -1, tail bone id: -1
+chain name: RightIndexMetacarpal, head bone id: -1, tail bone id: -1
+chain name: LeftMiddleMetacarpal, head bone id: -1, tail bone id: -1
+chain name: RightMiddleMetacarpal, head bone id: -1, tail bone id: -1
+chain name: LeftPinkyMetacarpal, head bone id: -1, tail bone id: -1
+chain name: RightPinkyMetacarpal, head bone id: -1, tail bone id: -1
+chain name: LeftRingMetacarpal, head bone id: -1, tail bone id: -1
+chain name: RightRingMetacarpal, head bone id: -1, tail bone id: -1
+chain name: LeftClavicle, head bone id: 5, tail bone id: 5
+chain name: RightClavicle, head bone id: 17, tail bone id: 17
+chain name: LeftFootIK, head bone id: -1, tail bone id: -1
+chain name: RightFootIK, head bone id: -1, tail bone id: -1
+chain name: LeftHandIK, head bone id: -1, tail bone id: -1
+chain name: RightHandIK, head bone id: -1, tail bone id: -1
+X
+chain data: ['Root', 'pelvis', 'pelvis', '']
+chain data: ['Spine', 'spine_01', 'spine_03', '']
+chain data: ['Head', 'head', 'head', '']
+chain data: ['LeftArm', 'upperarm_l', 'lowerarm_twist_01_l', '']
+chain data: ['RightArm', 'upperarm_r', 'lowerarm_twist_01_r', '']
+chain data: ['LeftRing', 'ring_01_l', 'ring_02_l', '']
+chain data: ['RightRing', 'ring_01_r', 'ring_02_r', '']
+chain data: ['LeftThumb', 'thumb_02_l', 'thumb_02_l', '']
+chain data: ['RightThumb', 'thumb_02_r', 'thumb_02_r', '']
+chain data: ['LeftIndex', 'index_01_l', 'index_02_l', '']
+chain data: ['RightIndex', 'index_01_r', 'index_02_r', '']
+chain data: ['LeftLeg', 'thigh_l', 'calf_twist_01_l', '']
+chain data: ['RightLeg', 'thigh_r', 'calf_twist_01_r', '']
+chain data: ['LeftLowerArmTwist01', 'lowerarm_twist_01_l', 'lowerarm_twist_01_l', '']
+chain data: ['RightLowerArmTwist01', 'lowerarm_twist_01_r', 'lowerarm_twist_01_r', '']
+chain data: ['LeftClavicle', 'clavicle_l', 'clavicle_l', '']
+chain data: ['RightClavicle', 'clavicle_r', 'clavicle_r', '']
+root: 0
+pelvis: 1
+spine_01: 2
+spine_02: 3
+spine_03: 4
+clavicle_l: 5
+upperarm_l: 6
+lowerarm_l: 7
+hand_l: 8
+index_01_l: 9
+index_02_l: 10
+ring_01_l: 11
+ring_02_l: 12
+thumb_01_l: 13
+thumb_02_l: 14
+lowerarm_twist_01_l: 15
+upperarm_twist_01_l: 16
+clavicle_r: 17
+upperarm_r: 18
+lowerarm_r: 19
+hand_r: 20
+index_01_r: 21
+index_02_r: 22
+ring_01_r: 23
+ring_02_r: 24
+thumb_01_r: 25
+thumb_02_r: 26
+lowerarm_twist_01_r: 27
+upperarm_twist_01_r: 28
+neck_01: 29
+head: 30
+thigh_l: 31
+calf_l: 32
+calf_twist_01_l: 33
+foot_l: 34
+ball_l: 35
+thigh_twist_01_l: 36
+thigh_r: 37
+calf_r: 38
+calf_twist_01_r: 39
+foot_r: 40
+ball_r: 41
+thigh_twist_01_r: 42
