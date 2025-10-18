@@ -14,13 +14,13 @@
 Unreal Engineを起動し、リターゲットを行いたいモデルのスケルたるメッシュを選択しながら、コマンドラインで、<br><br>
 
 ~~~ 
-py （ここにこのツールのフォルダーパス）/AutoRetargeter.py
+py （ここにこのツールのフォルダーパス）/AutoRetargeter2.py
 ~~~
 
 を入力して実行することで、自動でリターゲットしてくれます。（実行処理は数秒かかります。）
 例えば私の環境の場合は、
 ~~~
-py E:/Project/Programming/Python/AutoRetargeter/AutoRetargeter.py
+py E:/Project/Programming/Python/AutoRetargeter/AutoRetargeter2.py
 ~~~
 と入力することで実行できます。
 
